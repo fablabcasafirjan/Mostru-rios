@@ -1,2 +1,2 @@
-# Mostru-rios
+# Mostruários
 Projetos de exposição
